@@ -20,7 +20,7 @@ And Regional Newspaper
 
 #### Download-Articles.py
 Includes the script to download all the articles used by GDELT as the source to
-perfoem event identificaiton for Karnataka (State of India) for year 2019
+perform event identificaiton for Karnataka (State of India) for year 2019
 
 #### india_karnataka_with_districts_2019.csv
 Data which contains all the events happened in Karnataka as of year 2019 recorded
